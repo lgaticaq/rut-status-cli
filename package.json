@@ -1,6 +1,6 @@
 {
   "name": "rut-status-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Check rut status in registro civil CLI",
   "main": "src",
   "scripts": {
