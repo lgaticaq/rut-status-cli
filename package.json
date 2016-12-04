@@ -32,7 +32,7 @@
     "commander": "^2.9.0",
     "ora": "^0.3.0",
     "rut-status": "^2.0.0",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^1.0.3"
   },
   "devDependencies": {
     "eslint": "^3.9.0"
