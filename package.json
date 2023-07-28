@@ -30,7 +30,7 @@
   "dependencies": {
     "chalk": "^2.0.0",
     "commander": "^2.9.0",
-    "ora": "^1.1.0",
+    "ora": "^7.0.0",
     "rut-status": "^2.0.0",
     "update-notifier": "^2.0.0"
   },
